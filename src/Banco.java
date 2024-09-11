@@ -34,7 +34,7 @@ public class Banco {
     System.out.println();
     System.out.println("Sua renda salarial:");
     salario = ler.nextInt();
-        if (salario < 1200){
+        if (salario <  1200){
             System.out.println();
             System.out.println("A gente não faz empréstimo pra liso, se saia mizera");
         } else {
